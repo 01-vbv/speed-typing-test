@@ -34,3 +34,7 @@ button{
   display: none;
   margin-top: 20px;
 }
+
+#sentence {
+  user-select: none;
+}
