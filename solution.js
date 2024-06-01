@@ -11,7 +11,7 @@ const resetBtnEle = document.querySelector("#retry-btn");
 const startBtnEle = document.querySelector("#start-btn");
 
 //Initialising variables
-let seconds = 10;
+let seconds = 30;
 let timer;
 let speed;
 let accuracy;
